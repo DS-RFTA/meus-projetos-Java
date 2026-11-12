@@ -58,4 +58,58 @@ Essa estrutura permitirá acompanhar não apenas o resultado final, mas também 
 
 **Desenvolvimento de software**
 - Programação Orientada a Objetos (POO)
-- Encapsulamento, herança e polim
+- Encapsulamento, herança e polimorfismo
+- Tratamento de exceções
+- Manipulação de arquivos
+- Testes automatizados
+- Depuração e refatoração
+- Organização e arquitetura de aplicações
+
+**Boas práticas**
+- Clean Code
+- SOLID
+- DRY
+- KISS
+- Git e GitHub
+- Validação de dados e fundamentos de segurança
+
+*As tecnologias e os conceitos serão introduzidos progressivamente, conforme a evolução dos projetos.*
+
+## 📈 Progresso da jornada
+
+| Fase | Projetos | Status |
+|---|---:|---|
+| Pensamento lógico | 01–10 | ⬜ Não iniciado |
+| Controle de fluxo | 11–20 | ⬜ Não iniciado |
+| Estruturas de dados | 21–30 | ⬜ Não iniciado |
+| Orientação a objetos | 31–40 | ⬜ Não iniciado |
+| Engenharia de Software | 41–50 | ⬜ Não iniciado |
+| Projetos integradores | 51–60 | ⬜ Não iniciado |
+
+**Meta:** concluir 60 projetos, documentando a evolução técnica e consolidando uma base sólida em desenvolvimento Java.
+
+## 📌 Princípios de desenvolvimento
+
+Durante essa jornada, cada implementação será orientada pelos seguintes princípios:
+
+1. Entender o problema antes de escrever código.
+2. Planejar a solução antes de implementar.
+3. Priorizar código legível, organizado e de fácil manutenção.
+4. Validar entradas e considerar cenários inesperados.
+5. Testar o comportamento da aplicação.
+6. Compreender cada decisão técnica adotada.
+7. Evoluir a solução por meio de melhorias e refatorações.
+
+## 🚀 Resultado esperado
+
+Ao final dos 60 projetos, espero ter consolidado os fundamentos necessários para desenvolver aplicações Java com maior autonomia, compreender os principais conceitos de Engenharia de Software e avançar para desafios envolvendo desenvolvimento backend, APIs, bancos de dados e arquitetura de software.
+
+Este repositório representa uma jornada de construção prática, evolução contínua e desenvolvimento de competências técnicas.
+
+**Aprender programação é aprender a resolver problemas. E cada projeto é uma oportunidade de evoluir como desenvolvedora.**
+
+---
+
+**Autora:** Renata Félix Trajano de Araújo  
+**Área de estudo:** Desenvolvimento de Software | Java | Engenharia de Software  
+**Repositório:** Meus Projetos Java
