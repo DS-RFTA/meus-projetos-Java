@@ -1,3 +1,16 @@
+
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Meus-%Projetos-%Java">
+</p>
+
+
+
+
+
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java)
+![Status](https://img.shields.io/badge/Status-Em%90Desenvolvimento-green?style=for-the-badge)
+
+
 # ☕ Meus Projetos Java
 
 Repositório dedicado ao desenvolvimento de habilidades em **Java, lógica de programação, algoritmos, estruturas de dados e Engenharia de Software**.
