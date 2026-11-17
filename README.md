@@ -126,3 +126,16 @@ Este repositório representa uma jornada de construção prática, evolução co
 **Autora:** Renata Félix Trajano de Araújo  
 **Área de estudo:** Desenvolvimento de Software | Java | Engenharia de Software  
 **Repositório:** Meus Projetos Java
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença [MIT](LICENSE). Sinta-se à vontade para utilizar, modificar e distribuir conforme desejar.
+
+---
+
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Feito%20com%20🎧,%20muito%20café.&fontSize=40&section=footer">
+</p>
+
