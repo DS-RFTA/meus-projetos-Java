@@ -136,6 +136,6 @@ Este projeto está sob a licença [MIT](LICENSE). Sinta-se à vontade para utili
 ---
 
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Feito%20com%20🎧,%20muito%20café.&fontSize=40&section=footer">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Feito%20com%20🎧,%20muito%20café.&fontSize=40&section=footer">
 </p>
 
